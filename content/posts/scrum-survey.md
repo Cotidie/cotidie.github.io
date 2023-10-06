@@ -53,7 +53,7 @@ draft = false
 
 
 ## 1.2.2 스크럼(Scrum)
-![scrum-process](content/images/scrum-survey-scrum-process.png)  
+![scrum-process](/images/scrum-survey-scrum-process.png)  
 < 그림1. 스크럼 프로세스, 출처: www.scrum.org/resources/what-scrum-module >
 
 &ensp;스크럼의 중요한 특징은 짧은 주기로 정형화된 팀 활동을 반복한다는 점이다. 프로젝트 초기에 최소제품과 유저스토리를 식별하여 제품 백로그를 작성하고, 우선순위에 따라 스프린트(반복 주기) 동안 진행할 항목을 스프린트 백로그에 옮긴다. 이후 약 4주 이내로 기간을 정해 스프린트에 착수한다.
